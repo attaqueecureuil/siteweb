@@ -3,14 +3,15 @@
 ben en fait c'est ce jeu sur lequel on bosse des tonnes depuis un bout de temps
 
 
---- DE TOUTES FACONS ---
-allez la pour jouer -> https://scratch.mit.edu/projects/1242343588/
-------------------------
+## DE TOUTES FACONS
+- allez la pour jouer -> https://scratch.mit.edu/projects/1242343588/
 
---- PORTS ---
-[mega drive](https://github.com/attaqueecureuil/siteweb/raw/refs/heads/master/rom3.bin) 
-[calculette (testé sur numworks)](https://raw.githubusercontent.com/attaqueecureuil/siteweb/refs/heads/master/numworks.py)
-[lien sur site numworks](https://my.numworks.com/python/thisisspamerr2ror/atecpy)
+-------------
+
+## PORTS
+- [mega drive](https://github.com/attaqueecureuil/siteweb/raw/refs/heads/master/rom3.bin) 
+- [calculette (testé sur numworks)](https://raw.githubusercontent.com/attaqueecureuil/siteweb/refs/heads/master/numworks.py)
+- [lien sur site numworks](https://my.numworks.com/python/thisisspamerr2ror/atecpy)
 -------------
 
 Liens officiels:
